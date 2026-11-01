@@ -1,0 +1,6 @@
+{
+  "name": "HadirGeo — Absensi Karyawan GPS & Laporan Otomatis",
+  "description": "Sistem presensi karyawan berbasis lokasi GPS dan geofencing kantor dengan pengiriman rekap laporan bulanan otomatis ke email.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
